@@ -1,5 +1,5 @@
 
-def my_each(array) # put argument(s) here
+def my_each(array) 
   # code here
    i = 0
   while i < array.length 
@@ -8,3 +8,5 @@ def my_each(array) # put argument(s) here
   end
   array
 end
+
+
